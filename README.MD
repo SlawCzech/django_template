@@ -1,5 +1,8 @@
 # Django template
 
+## How to run?
+1. Environment variables
+2. Staticfiles
 
 ### Dictionary
 - REPL - read, evaluate, print, loop
@@ -10,3 +13,9 @@ Trzy tryby aplikacji:
 - Product (kompletny produkt)
 
 DB - connection string
+yaml - yet another markup language
+CDN - content delivery network (CloudFront (AWS))
+
+Sposoby optymalizacji stron internetowych:
+- minification - remove white signs/characters/symbols
+- uglification - short identifiers name
